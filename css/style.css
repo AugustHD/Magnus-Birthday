@@ -144,7 +144,7 @@ body {
     border-radius: 0 50% 50% 50%;
     bottom: 48px;
     transform: rotate(45deg);
-    left: -1px
+    
 }
 .outside p{
     font-size: 23px;
